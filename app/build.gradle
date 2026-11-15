@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.webapp.cyberneuralinterfacexbgnf'
+    namespace 'com.webapp.cyberneuralinterfacexejdq'
     compileSdk 34
 
     defaultConfig {
-        applicationId 'com.webapp.cyberneuralinterfacexbgnf'
+        applicationId 'com.webapp.cyberneuralinterfacexejdq'
         minSdk 21
         targetSdk 34
         versionCode 1
