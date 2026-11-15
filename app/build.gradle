@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.webapp.cyberneuralinterfaceyrpbx'
+    namespace 'com.webapp.cyberneuralinterfacebxsqv'
     compileSdk 34
 
     defaultConfig {
-        applicationId 'com.webapp.cyberneuralinterfaceyrpbx'
+        applicationId 'com.webapp.cyberneuralinterfacebxsqv'
         minSdk 21
         targetSdk 34
         versionCode 1
